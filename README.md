@@ -1,6 +1,6 @@
 # Confidence In — Free
 
-The free plugin marketplace from [Confidence In](https://confidence-in.com). Tools for senior tech leaders to find the signal, hold the line, and lead with judgement.
+The free plugin marketplace from [Confidence In](https://confidence-in.com). Tools for senior leaders in tech companies to find the signal, influence with clarity, and lead with judgement.
 
 This repo is a Claude Code marketplace. The plugins themselves live in their own repos — this repo just lists them.
 
@@ -10,7 +10,7 @@ This repo is a Claude Code marketplace. The plugins themselves live in their own
 
 | Plugin | What it does |
 |---|---|
-| [Signal Inbox](https://github.com/mrdavemartin/signal-inbox) | Morning brief synthesising the last 24h across Slack, Gmail, and Granola. Find what matters before the noise wins. |
+| [Signal Inbox](https://github.com/mrdavemartin/signal-inbox) | Brief synthesising the last 24h across Slack, Gmail, and Granola. Find what matters before the noise wins. |
 
 More plugins land here over time. See **What's coming** at the bottom.
 
