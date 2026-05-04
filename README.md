@@ -37,17 +37,14 @@ To pin to a specific marketplace version:
 
 ## Install on Cowork (desktop app)
 
-Cowork's plugin browser doesn't yet accept GitHub URLs as marketplaces, so the catalog itself can't be added there. **Each plugin must be installed individually as a ZIP upload:**
-
-1. Open the plugin's GitHub repo (e.g. [Signal Inbox](https://github.com/mrdavemartin/signal-inbox)).
-2. Click the green **`< > Code`** button → **Download ZIP**.
-3. In Cowork, open **Customize** in the left sidebar → **Browse plugins**.
-4. Choose the option to **upload a custom plugin** and select the downloaded ZIP.
-5. Confirm it appears in your installed plugins list.
-
-To update a plugin later, download a fresh ZIP and re-upload — Cowork will replace the existing copy.
-
-If/when Cowork adds custom marketplace support, the CLI install path above will work in Cowork too.
+This route makes future updates one click.
+1. In the desktop Claude app, click “Cowork”.
+2. From the left-hand menu, click “Customize”.
+3. Click the “+” next to “Personal plugins”. Hover over “Create plugin”, then click “Add Marketplace”.
+4. Paste in the GitHub URL: https://github.com/mrdavemartin/Confidence-In-Free and click Sync.
+5. The marketplace browser opens, filtered to “Anthropic & Partners”. Click “Personal” instead. You’ll see the Confidence In marketplace.
+6. Click into it, find “Signal Inbox”, and click Add.
+7. Choose auto-sync if you want updates handled for you, or leave it manual.
 
 ---
 
