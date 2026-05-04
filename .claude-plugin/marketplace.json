@@ -1,0 +1,19 @@
+{
+  "name": "confidence-in-free",
+  "metadata": {
+    "description": "Confidence In — free plugins for senior tech leaders. Find the signal, hold the line, lead with judgement."
+  },
+  "owner": {
+    "name": "Dave Martin"
+  },
+  "plugins": [
+    {
+      "name": "signal-inbox",
+      "source": {
+        "source": "github",
+        "repo": "mrdavemartin/signal-inbox"
+      },
+      "description": "Morning brief synthesising the last 24h across Slack, Gmail, and Granola. Find what matters before the noise wins."
+    }
+  ]
+}
