@@ -67,7 +67,7 @@ Full documentation: [mrdavemartin/signal-inbox](https://github.com/mrdavemartin/
 
 ## What's coming
 
-This is the free tier. More plugins land here over time — each focused on a specific problem senior leaders run into. If there's a paid tier in future, it'll live in a separate marketplace; nothing in this catalog will ever move behind a paywall.
+The plugins in this marketplace will always be free. More plugins land here over time — each focused on a specific problem senior leaders run into. If there's a paid tier in future, it'll live in a separate marketplace; nothing in this catalog will ever move behind a paywall.
 
 ---
 
